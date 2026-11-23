@@ -49,8 +49,7 @@ Automated end-to-end tests for the practice e-commerce website
         npx playwright show-report
 
 ## Test report
-
-![Playwright report](screenshots/report.png)
+![Playwright report](saucedemo-automation/screenshots/report.png)
 
 ## Issues found and fixed during testing
 - **TC-19 failed on WebKit** with a strict mode violation (the locator matched
